@@ -1,0 +1,1 @@
+we have a list of fake apps in our app and by the help of QUERY_ALL_PACKAGES we get the packages inside the phone  and then we loop though those package names and check if any such fake app is present in their phone and suggest them to remove it
